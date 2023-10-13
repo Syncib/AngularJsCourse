@@ -16,7 +16,7 @@
                 }
             }
             else {
-                $scope.dishmsg = "Please Enter Value"
+                $scope.dishmsg = "Please enter data first"
             }
         }
     }
